@@ -29,6 +29,8 @@ p {
     margin: 0px;
     padding: 0px;
     overflow: hidden; font-family: calibri;
+    position:   sticky  ;
+    top: 0;
     
     
 }
